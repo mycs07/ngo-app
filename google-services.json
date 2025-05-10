@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380447635591",
+    "project_id": "plateitforward-2635b",
+    "storage_bucket": "plateitforward-2635b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380447635591:android:701f78388fdbed33136022",
+        "android_client_info": {
+          "package_name": "com.MobileComp.PlateItForward"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1kx9KlU4NjSgooX90uctEgmQQ2rfpeZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

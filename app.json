@@ -1,0 +1,8 @@
+{
+  "expo": {
+  "name": "Plate It Forward",
+  "slug": "plate-it-forward",
+  "version": "1.0.0",
+  "assetBundlePatterns": ["**/*"]
+  }
+  }
